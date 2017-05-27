@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInput;
 import java.io.ObjectInputStream;
-import java.io.Serializable;
 
 public class _02Deserialization {
 	public static void main(String[] args) {

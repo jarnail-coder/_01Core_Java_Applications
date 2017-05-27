@@ -1,7 +1,5 @@
 package _01deadlocks;
 
-import java.util.Scanner;
-
 class _01DeadLockTest {
 
 	public static void main(String[] args) {
