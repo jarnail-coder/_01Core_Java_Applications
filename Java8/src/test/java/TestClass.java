@@ -2,6 +2,8 @@
 public class TestClass {
 	public static void main(String[] args) {
 		System.out.println("You know >>I Am aman<< For Testing");
+		System.out.println("JustMy Name is Aman For  You Know Testing");
+		System.out.println("You know This is I know u r Jarnail Singh");
 		System.out.println("++++++++++++Table Of Four+++++++");
 		for (int i = 1; i < 20; i++) {
 			System.out.println("5 * " + i + "=" + (i * 5));
