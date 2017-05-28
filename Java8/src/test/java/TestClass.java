@@ -5,7 +5,7 @@ public class TestClass {
 		System.out.println("You know >>======<< For Testing");
 		System.out.println("JustMy Name is Aman For  You Know Testing");
 		System.out.println("You know This is I know u r Jarnail Singh");
-		System.out.println("++++++++++++Table Of Four+++++++");
+		System.out.println("++++++++++++||||||Table Of Four|||||||+++++++");
 		for (int i = 1; i < 20; i++) {
 			System.out.println("5 * " + i + "=" + (i * 5));
 		}
